@@ -4,7 +4,7 @@ use this setup:
 ```
 https://cdn.blossomcraft.dovahkiin.xyz/3D-models/blob/main/{Crate Name}/{3D model name}.gltf
 ```
-a CDN URL compleated should look like:
+a CDN URL completed should look like this:
 ```
 https://cdn.blossomcraft.dovahkiin.xyz/3D-models/blob/main/christmas2023/key.gltf
 ```
@@ -17,6 +17,6 @@ to embed the model into a website I recommend [Google's model-viewer](https://mo
 ```
 
 Notes:
-> We do not own any of these models, they have been grabed from texture packs and/or the game, use at your own risk, is repo/CDN was/is made and maintained primaraly for internal use!
+> We do not own any of these models, they have been grabbed from texture packs and/or the game, use at your own risk, is repo/CDN was/is made and maintained primarily for internal use!
 
 > ***CDN*** | Content Delivery Network
