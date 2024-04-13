@@ -9,6 +9,15 @@ a CDN URL compleated should look like:
 https://cdn.blossomcraft.dovahkiin.xyz/3D-models/blob/main/christmas2023/key.gltf
 ```
 
+You can also use [jsDelivr](https://www.jsdelivr.com/):
+```
+https://cdn.jsdelivr.net/gh/Unofficial-BlossomCraft-Wikis/3D-models@main/{Crate Name}/{3D model name}.gltf
+```
+a CDN URL completed should look like this:
+```
+https://cdn.jsdelivr.net/gh/Unofficial-BlossomCraft-Wikis/3D-models@main/christmas2023/key.gltf
+```
+
 to embed the model into a website I recommend [Google's model-viewer](https://modelviewer.dev/):
 ```html
 <script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/3.1.1/model-viewer.min.js"></script>
